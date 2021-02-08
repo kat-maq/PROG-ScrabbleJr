@@ -7,6 +7,7 @@
 #  Adelaide Miranda Santos (up201907487)   (50%)                        # 
 #  Rita Miguel Matos Mendes (up201907877)  (50%)                        #
 #                                                                       #
+#  Grade: 17.8                                                          #
 =========================================================================
 
   (1) - Project description
